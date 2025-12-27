@@ -7,7 +7,7 @@
     "dev": "next dev --turbo",
     "build": "next build --turbo",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "eslint ."
   },
   "browserslist": [
     "chrome 86",
@@ -34,6 +34,7 @@
     "gray-matter": "^4.0.3",
     "highlight.js": "^11.11.1",
     "html-react-parser": "^5.2.11",
+    "jiti": "^2.6.1",
     "mini-css-extract-plugin": "^2.9.4",
     "neko-ts": "^0.0.6",
     "next": "16.1.1",
@@ -61,7 +62,7 @@
     "@types/sanitize-html": "^2.16.0",
     "autoprefixer": "^10.4.23",
     "baseline-browser-mapping": "^2.9.11",
-    "eslint": "^8.57.1",
+    "eslint": "^9",
     "eslint-config-next": "^15.5.9",
     "postcss": "^8.5.6",
     "postcss-nested": "^6.2.0",
