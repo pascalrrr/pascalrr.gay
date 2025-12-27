@@ -39,7 +39,7 @@ const shortnerConfig: ShortnerConfig = {
 		},
 		{
 			redirect: "linkedin",
-			target: "https://www.linkedin.com/in/cayden-haun-b85650258/"
+			target: "https://www.linkedin.com/in/cayden-haun"
 		},
 		{
 			redirect: "mastodon",

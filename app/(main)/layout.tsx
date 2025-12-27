@@ -7,7 +7,6 @@ import { ReactNode, Suspense } from "react";
 
 const raleway = Raleway({ subsets: ["latin"], preload: true, variable: "--font-raleway" });
 
-
 export default function RootLayout({ children }: { children: ReactNode }) {
 	return (
 		<body className={`${raleway.variable} font-sans bg-ctp-base`}>
