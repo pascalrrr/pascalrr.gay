@@ -35,7 +35,7 @@ const shortnerConfig: ShortnerConfig = {
 		},
 		{
 			redirect: "github",
-			target: "https://github.com/floridaman7588"
+			target: "https://github.com/pascalrrr"
 		},
 		{
 			redirect: "linkedin",
@@ -71,7 +71,7 @@ const shortnerConfig: ShortnerConfig = {
 		},
 		{
 			redirect: "mochad-github",
-			target: "https://github.com/floridaman7588/mochad-ha-addon"
+			target: "https://github.com/pascalrrr/mochad-ha-addon"
 		},
 		{
 			redirect: "waterfox-flathub",
@@ -83,7 +83,7 @@ const shortnerConfig: ShortnerConfig = {
 		},
 		{
 			redirect: "mochad-releases",
-			target: "https://github.com/floridaman7588/mochad-ha-addon/releases"
+			target: "https://github.com/pascalrrr/mochad-ha-addon/releases"
 		}
 	]
 }
